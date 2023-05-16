@@ -21,7 +21,7 @@ firebase_admin.initialize_app(cred, {
 bucket = storage.bucket()
 
 # Sets the dimensions of the webcam
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 cap.set(3,640)
 cap.set(4,480)
 
