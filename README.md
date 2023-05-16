@@ -2,6 +2,8 @@
 
 The Attendance Tracker is a project that uses face recognition to track the attendance of students. It captures the faces of students using a webcam, compares them with known faces, and updates the attendance records in a Firebase database.
 
+[Click Here to View Images of the Program](https://imgur.com/a/6gh7XfT)
+
 ## Features
 
 - Real-time face detection and recognition
@@ -61,10 +63,6 @@ You will need to install the Desktop Development with C++ on Visual Studio to in
 3. As recognized faces are matched with known faces, the attendance records will be updated in the Firebase database.
 
 4. Press 'q' to quit the program.
-
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgments
 
