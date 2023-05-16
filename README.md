@@ -7,7 +7,7 @@ The Attendance Tracker is a project that uses face recognition to track the atte
 - Real-time face detection and recognition
 - Integration with Firebase for database management
 - Attendance tracking based on student identification
-- Visual interface with different modes
+- Visual interface with different modes (made with Figma)
 
 ## Requirements
 
